@@ -1,2 +1,5 @@
+Version 1.0.1
+	Quick Fix: Fixes color names not working properly for pre-iOS 13 OS versions
+
 Version 1.0.0
 	Init
