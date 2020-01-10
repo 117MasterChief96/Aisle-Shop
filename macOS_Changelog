@@ -1,3 +1,18 @@
+Version 1.3.501
+	Added:
+	1. Edit Button for macOS and functionality for editing items like on iOS and iPadOS
+
+	Changed:
+
+	Fixed:
+	1. Help Button in UIMenu.  (Button was removed at launch until custom solution was found)
+	1. Made the bar in the Edit View no longer selectable 
+
+	Removed:
+
+	Todo:
+	1. Completed -- Edit Menu for macOS
+
 Version 1.3.476
 	Init:
 

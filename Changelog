@@ -1,3 +1,21 @@
+Version 1.3.530
+	Added:
+	1. None
+
+	Changed:
+	1. Edit View now takes the user to a new view instead of a popover to enhance reliability
+
+	Fixed:
+	1. Made the bar in the Edit View no longer selectable 
+	2. Store image spelling error
+
+	Removed:
+	1. None
+
+	Todo:
+	1. Fix Dark mode to be true black and not off black on certain views
+
+
 Version 1.3.476
 	Added:
 	1. Credit for RSSelectionMenu in About VC (see changed for uses)
